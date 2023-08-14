@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDRJjVK/Odf0lmV6qb/m4o23wRn6xXHENBNJCp9e/CrI3FA65vu0oA554aidWWAPhGHwmK0TXuJGNYi/29wpMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IT2.UMFC-KO\\RiderProjects\\TiffSzat\\TiffSzat\\TiffSzat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT2.UMFC-KO\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512"
+  ],
+  "logs": []
+}

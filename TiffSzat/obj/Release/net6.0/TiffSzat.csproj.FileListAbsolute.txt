@@ -1,0 +1,17 @@
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\TiffSzat.exe
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\TiffSzat.deps.json
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\TiffSzat.runtimeconfig.json
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\TiffSzat.dll
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\TiffSzat.pdb
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\bin\Release\net6.0\BitMiracle.LibTiff.NET.dll
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.csproj.AssemblyReference.cache
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.AssemblyInfoInputs.cache
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.AssemblyInfo.cs
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.csproj.CoreCompileInputs.cache
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.csproj.CopyComplete
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.dll
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\refint\TiffSzat.dll
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.pdb
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\TiffSzat.genruntimeconfig.cache
+C:\Users\IT2.UMFC-KO\RiderProjects\TiffSzat\TiffSzat\obj\Release\net6.0\ref\TiffSzat.dll
