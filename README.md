@@ -7,13 +7,13 @@ TifCompressor is a program designed to compress .tif files.
 ### English
 
 1. Put your .tif files into a folder.
-2. Start TifCompressor.exe.
+2. Start COMPRESS_FILES.exe.
 3. View the compressed result.
 
 ### Русский
 
 1. Поместите ваши файлы формата .tif в папку.
-2. Запустите TifCompressor.exe.
+2. Запустите COMPRESS_FILES.exe.
 3. Просмотрите сжатый результат.
 
 ## Usage
