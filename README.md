@@ -1,6 +1,29 @@
-<p>Instructions / &#1048;&#1085;&#1089;&#1090;&#1088;&#1091;&#1082;&#1094;&#1080;&#1103; [EN] This programm compress .tif files.  <p>1 Put your files into folder.  2 Start TifCompressor.exe.  3 See the result.</p>
+# TifCompressor
 
-<p>[RU] &#1069;&#1090;&#1072; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1072; &#1089;&#1078;&#1080;&#1084;&#1072;&#1077;&#1090; &#1092;&#1072;&#1081;&#1083;&#1099; .tif.  1 &#1055;&#1086;&#1084;&#1077;&#1089;&#1090;&#1080;&#1090;&#1077; &#1092;&#1072;&#1081;&#1083;&#1099; &#1074; &#1087;&#1072;&#1087;&#1082;&#1091;,  2 &#1047;&#1072;&#1087;&#1091;&#1089;&#1090;&#1080;&#1090;&#1077; TifCompressor.exe.  3 &#1055;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090;&#1077; &#1088;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090;.</p>
+TifCompressor is a program designed to compress .tif files.
+
+## Instructions
+
+### English
+
+1. Put your .tif files into a folder.
+2. Start TifCompressor.exe.
+3. View the compressed result.
+
+### Русский
+
+1. Поместите ваши файлы формата .tif в папку.
+2. Запустите TifCompressor.exe.
+3. Просмотрите сжатый результат.
+
+## Usage
+
+Provide your .tif files in a designated folder and run the TifCompressor.exe program. After the compression process is complete, you can find the compressed files in the same folder.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 [![Octocat](https://user-images.githubusercontent.com/81953271/124010886-b571ca80-d9df-11eb-86ac-b358c48ac6aa.png "GitHub Logo")](https://github.com/)
 
