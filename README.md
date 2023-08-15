@@ -2,7 +2,7 @@
 Instructions / Инструкция
 [EN]
 This programm compress .tif files.
-  1 Put your files into folder.
+  <p>1 Put your files into folder.</p>
   2 Start TifCompressor.exe.
   3 See the result.
 
